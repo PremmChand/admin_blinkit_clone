@@ -32,10 +32,10 @@ The app uses **Firebase Realtime Database** for data storage and **Firebase Clou
 
 ## 📸 Screenshots
 
-| ![Login](screenshots/login.png) | ![OTP](screenshots/otp.png) | ![Home](screenshots/home.png) | ![Add Product](screenshots/add_product.png) |
-|---|---|---|---|
-| ![Update Product](screenshots/update_product.png) | ![Product Category](screenshots/product_category.png) | ![Product Category 1](screenshots/product_category1.png) | ![Order Detail](screenshots/order_detail.png) |
-| ![Order Status](screenshots/order_status.png) | ![Order Status 1](screenshots/order_status1.png) | ![Order Status 2](screenshots/order_status2.png) | &nbsp; |
+| ![Login](assets/images/login.png)                 | ![OTP](assets/images/otp.png) | ![Home](assets/images/home.png) | ![Add Product](assets/images/add_product.png) |
+|---------------------------------------------------|---|---|---|
+| ![Update Product](assets/images/update_product.png) | ![Product Category](assets/images/product_category.png) | ![Product Category 1](assets/images/product_category1.png) | ![Order Detail](assets/images/order_detail.png) |
+| ![Order Status](assets/images/order_status.png)     | ![Order Status 1](assets/images/order_status1.png) | ![Order Status 2](assets/images/order_status2.png) | &nbsp; |
 
 
 
