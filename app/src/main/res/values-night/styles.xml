@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- App Theme with support for light status bar icons -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/yellow</item>
+        <item name="android:windowLightStatusBar">true</item> <!-- Needed for dark icons -->
+    </style>
+
+</resources>

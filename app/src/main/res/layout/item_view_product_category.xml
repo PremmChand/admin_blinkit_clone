@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="4dp">
+
+    <ImageView
+        android:id="@+id/ivCategoryImage"
+        android:layout_width="78.00dp"
+        android:layout_height="78.00dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="4dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:padding="4dp"
+        android:background="@drawable/bg_category"
+        android:layout_gravity="center"
+        android:src="@drawable/vegetable"
+        android:scaleType="centerInside"/>
+    <TextView
+        android:id="@+id/tvCategoryTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/ivCategoryImage"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="Vegetable"
+        android:gravity="center"
+        android:ellipsize="end"
+        android:maxLines="2"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+    <!--
+    <?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="2.60dp"
+        android:id="@+id/mainBg"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:orientation="vertical"
+
+            >
+
+            <ImageView
+                    android:id="@+id/ivCategoryImage"
+                android:layout_width="78.00dp"
+                android:layout_height="78.00dp"
+                android:scaleType="centerInside"
+                android:background="@drawable/bg_category"
+                android:src="@drawable/vegetable"
+                android:layout_gravity="center"
+                android:padding="4dp"
+                />
+
+            <TextView
+                android:id="@+id/tvCategoryTitle"
+                android:layout_width="78.00dp"
+                android:layout_height="wrap_content"
+                android:maxLines="2"
+                android:layout_marginTop="6.50dp"
+                android:layout_gravity="center"
+                android:ellipsize="end"
+                android:text="Vegetable and Fruits"
+                android:textSize="14.30sp"
+               android:textColor="@color/category_text_color"
+                android:gravity="center"
+                />
+
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>-->

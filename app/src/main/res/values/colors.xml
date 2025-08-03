@@ -1,0 +1,48 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+
+    <color name = "yellow">#ffbe0b</color>
+    <color name="green">#4CAF50</color>
+    <color name="grayish_blue">#8d99ae</color>
+    <color name="black">#000000</color>
+    <color name="orange">#FFA500</color>
+    <color name="deep_orange">#FF5722</color>
+    <color name="light_orange">#FFCC80</color>
+    <color name="amber">#FFC107</color>
+
+    <color name="light_green">#81C784</color>
+    <color name="dark_green">#388E3C</color>
+    <color name="my_text_color">#000000</color>
+    <color name="white_yellow">#FFFFFF</color>
+    <color name="blue">#2196F3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+
+
+    <color name="purple">#A203FF</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorYellow">#ffbe0b</color>
+
+    <!--    home fragment-->
+    <color name="icon_tint">#FFFFFF</color>
+    <color name="search_text_color">#FFFFFF</color>
+    <color name="colorSurface">#A6C3F6</color>
+    <color name="text_primary">#000000</color>
+    <color name="category_text_color">#000000</color>
+    <color name="statusBarColor">#ffbe0b</color>
+    <!---->
+    
+    <!-- Add Product fragment    -->
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="bg_surface">#FFFFFF</color>
+    <color name="iconColor">#000000</color>
+
+
+    <!-- -->
+
+</resources>
